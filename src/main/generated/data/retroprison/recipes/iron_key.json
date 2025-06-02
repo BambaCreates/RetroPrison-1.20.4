@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:ward_armor_trim_smithing_template"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "#",
+    "C"
+  ],
+  "result": {
+    "item": "retroprison:iron_key"
+  }
+}

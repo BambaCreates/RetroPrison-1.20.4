@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "retroprison:amethyst_helmet",
+    "retroprison:amethyst_chestplate",
+    "retroprison:amethyst_leggings",
+    "retroprison:amethyst_boots",
+    "retroprison:slime_boots"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "retroprison",
+	"version": "${version}",
+	"name": "retroprison",
+	"description": "A mod for retrogard one house prison!",
+	"authors": [
+		"Bamba"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/retroprison/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"bamba.retroprison.Retroprison"
+		],
+		"client": [
+			"bamba.retroprison.RetroprisonClient"
+		],
+		"fabric-datagen": [
+			"bamba.retroprison.RetroprisonDataGenerator"
+		]
+	},
+	"mixins": [
+		"retroprison.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.13",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

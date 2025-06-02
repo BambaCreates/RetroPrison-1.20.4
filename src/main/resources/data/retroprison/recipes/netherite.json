@@ -1,0 +1,24 @@
+{
+  "type": "retroprison:core_refiner",
+  "ingredients": [
+    {
+      "item": "minecraft:ancient_debris"
+    },
+    {
+
+    },
+    {
+      "item": "minecraft:gilded_blackstone"
+    },
+    {
+      "item": "minecraft:gilded_blackstone"
+    },
+    {
+
+    }
+  ],
+  "output": {
+    "item": "minecraft:ancient_debris",
+    "count": 2
+  }
+}

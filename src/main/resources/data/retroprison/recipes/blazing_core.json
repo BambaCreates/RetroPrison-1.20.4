@@ -1,0 +1,24 @@
+{
+  "type": "retroprison:core_refiner",
+  "ingredients": [
+    {
+      "item": "retroprison:blazing_heart"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  ],
+  "output": {
+    "item": "retroprison:blazed_core",
+    "count": 1
+  }
+}

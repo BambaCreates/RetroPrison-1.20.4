@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_amethyst_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "retroprison:amethyst_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:amethyst_boots"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_amethyst_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:amethyst_boots"
+    ]
+  }
+}

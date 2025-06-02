@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "minecraft:slime_block"
+    },
+    "s": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "pattern": [
+    "s s",
+    "S S"
+  ],
+  "result": {
+    "item": "retroprison:slime_boots"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "item.retroprison.pearl_ingot": "Pearl Ingot",
+  "item.retroprison.iron_key": "Guard Key",
+  "item.retroprison.amethyst_dust": "Amethyst Dust",
+  "item.retroprison.amethyst_ingot": "Amethyst Ingot",
+  "item.retroprison.amethyst_nugget": "Amethyst Nugget",
+
+  "item.retroprison.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.retroprison.amethyst_axe": "Amethyst Axe",
+  "item.retroprison.amethyst_shovel": "Amethyst Shovel",
+  "item.retroprison.amethyst_sword": "Amethyst Sword",
+  "item.retroprison.amethyst_hoe": "Amethyst Hoe",
+
+  "item.retroprison.amethyst_helmet": "Amethyst Helmet",
+  "item.retroprison.amethyst_chestplate": "Amethyst Chestplate",
+  "item.retroprison.amethyst_leggings": "Amethyst Leggings",
+  "item.retroprison.amethyst_boots": "Amethyst Boots",
+
+  "item.retroprison.farming_scythe": "Farming Scythe",
+  "item.retroprison.galaxy_sword": "Galaxy Sword",
+  "item.retroprison.slime_gauntlet": "Slime Gauntlets",
+
+  "item.retroprison.blazing_heart": "Blazing Heart",
+  "item.retroprison.blazed_core": "Blazed Core",
+
+  "block.retroprison.potato_block": "Potato Block",
+  "block.retroprison.core_refiner": "Core Refiner",
+
+
+  "itemgroup.retroprison": "Retroprison"
+}
